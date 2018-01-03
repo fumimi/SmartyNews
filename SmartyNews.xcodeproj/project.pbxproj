@@ -12,6 +12,17 @@
 		003A71531FFD251700C9642C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 003A71511FFD251700C9642C /* Main.storyboard */; };
 		003A71551FFD251700C9642C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 003A71541FFD251700C9642C /* Assets.xcassets */; };
 		003A71581FFD251700C9642C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 003A71561FFD251700C9642C /* LaunchScreen.storyboard */; };
+		003A716A1FFD27AA00C9642C /* go.png in Resources */ = {isa = PBXBuildFile; fileRef = 003A715F1FFD27A800C9642C /* go.png */; };
+		003A716B1FFD27AA00C9642C /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 003A71601FFD27A800C9642C /* 2.jpg */; };
+		003A716C1FFD27AA00C9642C /* 4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 003A71611FFD27A900C9642C /* 4.jpg */; };
+		003A716D1FFD27AA00C9642C /* CAPSPageMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 003A71621FFD27A900C9642C /* CAPSPageMenu.swift */; };
+		003A716E1FFD27AA00C9642C /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 003A71631FFD27A900C9642C /* 3.jpg */; };
+		003A716F1FFD27AA00C9642C /* back.png in Resources */ = {isa = PBXBuildFile; fileRef = 003A71641FFD27A900C9642C /* back.png */; };
+		003A71701FFD27AA00C9642C /* DotsLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 003A71651FFD27A900C9642C /* DotsLoader.swift */; };
+		003A71711FFD27AA00C9642C /* placeholderImage.png in Resources */ = {isa = PBXBuildFile; fileRef = 003A71661FFD27A900C9642C /* placeholderImage.png */; };
+		003A71721FFD27AA00C9642C /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 003A71671FFD27AA00C9642C /* 1.jpg */; };
+		003A71731FFD27AA00C9642C /* 5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 003A71681FFD27AA00C9642C /* 5.jpg */; };
+		003A71741FFD27AA00C9642C /* cancel.png in Resources */ = {isa = PBXBuildFile; fileRef = 003A71691FFD27AA00C9642C /* cancel.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +33,17 @@
 		003A71541FFD251700C9642C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		003A71571FFD251700C9642C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		003A71591FFD251700C9642C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		003A715F1FFD27A800C9642C /* go.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = go.png; sourceTree = "<group>"; };
+		003A71601FFD27A800C9642C /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpg; sourceTree = "<group>"; };
+		003A71611FFD27A900C9642C /* 4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4.jpg; sourceTree = "<group>"; };
+		003A71621FFD27A900C9642C /* CAPSPageMenu.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CAPSPageMenu.swift; sourceTree = "<group>"; };
+		003A71631FFD27A900C9642C /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpg; sourceTree = "<group>"; };
+		003A71641FFD27A900C9642C /* back.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = back.png; sourceTree = "<group>"; };
+		003A71651FFD27A900C9642C /* DotsLoader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DotsLoader.swift; sourceTree = "<group>"; };
+		003A71661FFD27A900C9642C /* placeholderImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = placeholderImage.png; sourceTree = "<group>"; };
+		003A71671FFD27AA00C9642C /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
+		003A71681FFD27AA00C9642C /* 5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5.jpg; sourceTree = "<group>"; };
+		003A71691FFD27AA00C9642C /* cancel.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cancel.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +76,17 @@
 		003A714C1FFD251700C9642C /* SmartyNews */ = {
 			isa = PBXGroup;
 			children = (
+				003A71671FFD27AA00C9642C /* 1.jpg */,
+				003A71601FFD27A800C9642C /* 2.jpg */,
+				003A71631FFD27A900C9642C /* 3.jpg */,
+				003A71611FFD27A900C9642C /* 4.jpg */,
+				003A71681FFD27AA00C9642C /* 5.jpg */,
+				003A71641FFD27A900C9642C /* back.png */,
+				003A71691FFD27AA00C9642C /* cancel.png */,
+				003A71621FFD27A900C9642C /* CAPSPageMenu.swift */,
+				003A71651FFD27A900C9642C /* DotsLoader.swift */,
+				003A715F1FFD27A800C9642C /* go.png */,
+				003A71661FFD27A900C9642C /* placeholderImage.png */,
 				003A714D1FFD251700C9642C /* AppDelegate.swift */,
 				003A714F1FFD251700C9642C /* ViewController.swift */,
 				003A71511FFD251700C9642C /* Main.storyboard */,
@@ -123,9 +156,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				003A71731FFD27AA00C9642C /* 5.jpg in Resources */,
+				003A716C1FFD27AA00C9642C /* 4.jpg in Resources */,
 				003A71581FFD251700C9642C /* LaunchScreen.storyboard in Resources */,
+				003A71741FFD27AA00C9642C /* cancel.png in Resources */,
 				003A71551FFD251700C9642C /* Assets.xcassets in Resources */,
+				003A71711FFD27AA00C9642C /* placeholderImage.png in Resources */,
+				003A716B1FFD27AA00C9642C /* 2.jpg in Resources */,
+				003A716F1FFD27AA00C9642C /* back.png in Resources */,
 				003A71531FFD251700C9642C /* Main.storyboard in Resources */,
+				003A716E1FFD27AA00C9642C /* 3.jpg in Resources */,
+				003A716A1FFD27AA00C9642C /* go.png in Resources */,
+				003A71721FFD27AA00C9642C /* 1.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -136,8 +178,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				003A71701FFD27AA00C9642C /* DotsLoader.swift in Sources */,
 				003A71501FFD251700C9642C /* ViewController.swift in Sources */,
 				003A714E1FFD251700C9642C /* AppDelegate.swift in Sources */,
+				003A716D1FFD27AA00C9642C /* CAPSPageMenu.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
